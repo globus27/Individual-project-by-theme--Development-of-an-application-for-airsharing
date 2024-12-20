@@ -1,0 +1,15 @@
+D:\Колледж\КУРС 4\МДК.02.02 Инструментальные средства разработки программного обеспечения\lab1\BackendApi\BusinessLogic\bin\Debug\net6.0\BusinessLogic.deps.json
+D:\Колледж\КУРС 4\МДК.02.02 Инструментальные средства разработки программного обеспечения\lab1\BackendApi\BusinessLogic\bin\Debug\net6.0\BusinessLogic.dll
+D:\Колледж\КУРС 4\МДК.02.02 Инструментальные средства разработки программного обеспечения\lab1\BackendApi\BusinessLogic\bin\Debug\net6.0\BusinessLogic.pdb
+D:\Колледж\КУРС 4\МДК.02.02 Инструментальные средства разработки программного обеспечения\lab1\BackendApi\BusinessLogic\obj\Debug\net6.0\BusinessLogic.csproj.AssemblyReference.cache
+D:\Колледж\КУРС 4\МДК.02.02 Инструментальные средства разработки программного обеспечения\lab1\BackendApi\BusinessLogic\obj\Debug\net6.0\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Колледж\КУРС 4\МДК.02.02 Инструментальные средства разработки программного обеспечения\lab1\BackendApi\BusinessLogic\obj\Debug\net6.0\BusinessLogic.AssemblyInfoInputs.cache
+D:\Колледж\КУРС 4\МДК.02.02 Инструментальные средства разработки программного обеспечения\lab1\BackendApi\BusinessLogic\obj\Debug\net6.0\BusinessLogic.AssemblyInfo.cs
+D:\Колледж\КУРС 4\МДК.02.02 Инструментальные средства разработки программного обеспечения\lab1\BackendApi\BusinessLogic\obj\Debug\net6.0\BusinessLogic.csproj.CoreCompileInputs.cache
+D:\Колледж\КУРС 4\МДК.02.02 Инструментальные средства разработки программного обеспечения\lab1\BackendApi\BusinessLogic\obj\Debug\net6.0\BusinessLogic.dll
+D:\Колледж\КУРС 4\МДК.02.02 Инструментальные средства разработки программного обеспечения\lab1\BackendApi\BusinessLogic\obj\Debug\net6.0\refint\BusinessLogic.dll
+D:\Колледж\КУРС 4\МДК.02.02 Инструментальные средства разработки программного обеспечения\lab1\BackendApi\BusinessLogic\obj\Debug\net6.0\BusinessLogic.pdb
+D:\Колледж\КУРС 4\МДК.02.02 Инструментальные средства разработки программного обеспечения\lab1\BackendApi\BusinessLogic\obj\Debug\net6.0\ref\BusinessLogic.dll
+D:\Колледж\КУРС 4\МДК.02.02 Инструментальные средства разработки программного обеспечения\lab1\BackendApi\BusinessLogic\bin\Debug\net6.0\DataAccess.dll
+D:\Колледж\КУРС 4\МДК.02.02 Инструментальные средства разработки программного обеспечения\lab1\BackendApi\BusinessLogic\bin\Debug\net6.0\DataAccess.pdb
+D:\Колледж\КУРС 4\МДК.02.02 Инструментальные средства разработки программного обеспечения\lab1\BackendApi\BusinessLogic\obj\Debug\net6.0\BusinessLogic.csproj.CopyComplete

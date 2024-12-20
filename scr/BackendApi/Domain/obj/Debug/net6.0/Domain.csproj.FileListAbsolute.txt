@@ -1,0 +1,12 @@
+D:\Колледж\КУРС 4\МДК.02.02 Инструментальные средства разработки программного обеспечения\lab1\BackendApi\Domain\bin\Debug\net6.0\Domain.deps.json
+D:\Колледж\КУРС 4\МДК.02.02 Инструментальные средства разработки программного обеспечения\lab1\BackendApi\Domain\bin\Debug\net6.0\Domain.dll
+D:\Колледж\КУРС 4\МДК.02.02 Инструментальные средства разработки программного обеспечения\lab1\BackendApi\Domain\bin\Debug\net6.0\Domain.pdb
+D:\Колледж\КУРС 4\МДК.02.02 Инструментальные средства разработки программного обеспечения\lab1\BackendApi\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+D:\Колледж\КУРС 4\МДК.02.02 Инструментальные средства разработки программного обеспечения\lab1\BackendApi\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Колледж\КУРС 4\МДК.02.02 Инструментальные средства разработки программного обеспечения\lab1\BackendApi\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+D:\Колледж\КУРС 4\МДК.02.02 Инструментальные средства разработки программного обеспечения\lab1\BackendApi\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+D:\Колледж\КУРС 4\МДК.02.02 Инструментальные средства разработки программного обеспечения\lab1\BackendApi\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+D:\Колледж\КУРС 4\МДК.02.02 Инструментальные средства разработки программного обеспечения\lab1\BackendApi\Domain\obj\Debug\net6.0\Domain.dll
+D:\Колледж\КУРС 4\МДК.02.02 Инструментальные средства разработки программного обеспечения\lab1\BackendApi\Domain\obj\Debug\net6.0\refint\Domain.dll
+D:\Колледж\КУРС 4\МДК.02.02 Инструментальные средства разработки программного обеспечения\lab1\BackendApi\Domain\obj\Debug\net6.0\Domain.pdb
+D:\Колледж\КУРС 4\МДК.02.02 Инструментальные средства разработки программного обеспечения\lab1\BackendApi\Domain\obj\Debug\net6.0\ref\Domain.dll
