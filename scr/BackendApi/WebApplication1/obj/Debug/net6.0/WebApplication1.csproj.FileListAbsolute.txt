@@ -76,3 +76,7 @@ D:\Колледж\КУРС 4\МДК.02.02 Инструментальные ср�
 D:\Колледж\КУРС 4\МДК.02.02 Инструментальные средства разработки программного обеспечения\lab1\BackendApi\WebApplication1\bin\Debug\net6.0\DataAccess.dll
 D:\Колледж\КУРС 4\МДК.02.02 Инструментальные средства разработки программного обеспечения\lab1\BackendApi\WebApplication1\bin\Debug\net6.0\BusinessLogic.pdb
 D:\Колледж\КУРС 4\МДК.02.02 Инструментальные средства разработки программного обеспечения\lab1\BackendApi\WebApplication1\bin\Debug\net6.0\DataAccess.pdb
+D:\Колледж\КУРС 4\МДК.02.02 Инструментальные средства разработки программного обеспечения\lab1\BackendApi\WebApplication1\bin\Debug\net6.0\WebApplication1.xml
+D:\Колледж\КУРС 4\МДК.02.02 Инструментальные средства разработки программного обеспечения\lab1\BackendApi\WebApplication1\obj\Debug\net6.0\WebApplication1.xml
+D:\Колледж\КУРС 4\МДК.02.02 Инструментальные средства разработки программного обеспечения\lab1\BackendApi\WebApplication1\bin\Debug\net6.0\Mapster.dll
+D:\Колледж\КУРС 4\МДК.02.02 Инструментальные средства разработки программного обеспечения\lab1\BackendApi\WebApplication1\bin\Debug\net6.0\Mapster.Core.dll

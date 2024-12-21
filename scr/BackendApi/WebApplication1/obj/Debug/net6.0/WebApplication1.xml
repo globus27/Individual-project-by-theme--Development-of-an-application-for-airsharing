@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebApplication1</name>
+    </assembly>
+    <members>
+        <member name="M:WebApplication1.Controllers.UserController.GetById(System.Int32)">
+             <summary>
+             Получение пользователя по его ID
+             </summary>
+             <remarks>
+             Пример запроса:
+            
+                 Get /Todo
+                 {
+                    "idUser": 0
+                 }
+            
+             </remarks>
+             <param name="model">Пользователь</param>
+             <returns></returns>
+        </member>
+        <member name="M:WebApplication1.Controllers.UserController.Add(WebApplication1.Contracts.User.CreateUserRequest)">
+             <summary>
+             Создание нового пользователя
+             </summary>
+             <remarks>
+             Пример запроса:
+            
+                 POST /Todo
+                 {
+                    "login" : "AirMan20000",
+                    "email": "mail@mail.ru",
+                    "password" : "!Pa$$word123@",
+                    "idPassport": "2"
+                 }
+            
+             </remarks>
+             <param name="model">Пользователь</param>
+             <returns></returns>
+        </member>
+    </members>
+</doc>

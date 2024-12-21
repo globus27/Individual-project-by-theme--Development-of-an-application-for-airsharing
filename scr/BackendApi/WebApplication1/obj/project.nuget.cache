@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "sa917dJu/DK3I4qzf59rzBIAfgQJvLNKwc0puVezCzAyDlGYDM0yYXZ2OG4qAifETodECwDC3WRJULbIVAP2VA==",
+  "dgSpecHash": "kRvU3shUS4ir0nAyIIgocuS/MAyj3oLDFOA59IlIfHxUjm2VHRZRLZYNf4nSWLWgDJe55j/IvQYTTV80vdIaCA==",
   "success": true,
   "projectFilePath": "D:\\Колледж\\КУРС 4\\МДК.02.02 Инструментальные средства разработки программного обеспечения\\lab1\\BackendApi\\WebApplication1\\WebApplication1.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\lobzi\\.nuget\\packages\\mapster\\7.4.0\\mapster.7.4.0.nupkg.sha512",
+    "C:\\Users\\lobzi\\.nuget\\packages\\mapster.core\\1.2.1\\mapster.core.1.2.1.nupkg.sha512",
     "C:\\Users\\lobzi\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\lobzi\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.7\\microsoft.data.sqlclient.2.1.7.nupkg.sha512",
     "C:\\Users\\lobzi\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.1.1\\microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",
